@@ -1,0 +1,9 @@
+{"TimeStamp": "2026-02-03T20:47:57.81374", "Log": "Connecting to the container 'ca-capybara-app'..."}
+{"TimeStamp": "2026-02-03T20:47:57.84491", "Log": "Successfully Connected to container: 'ca-capybara-app' [Revision: 'ca-capybara-app--0000019', Replica: 'ca-capybara-app--0000019-5b66f9b485-nqb2w']"}
+{"TimeStamp": "2026-02-03T20:46:21.8726668+00:00", "Log": "F [2026-02-03 20:46:21 +0000] [1] [INFO] Starting gunicorn 23.0.0"}
+{"TimeStamp": "2026-02-03T20:46:21.8728817+00:00", "Log": "F [2026-02-03 20:46:21 +0000] [1] [INFO] Listening at: http://0.0.0.0:5000 (1)"}
+{"TimeStamp": "2026-02-03T20:46:21.8728916+00:00", "Log": "F [2026-02-03 20:46:21 +0000] [1] [INFO] Using worker: sync"}
+{"TimeStamp": "2026-02-03T20:46:21.8750519+00:00", "Log": "F [2026-02-03 20:46:21 +0000] [7] [INFO] Booting worker with pid: 7"}
+{"TimeStamp": "2026-02-03T20:46:21.9763867+00:00", "Log": "F [2026-02-03 20:46:21 +0000] [8] [INFO] Booting worker with pid: 8"}
+{"TimeStamp": "2026-02-03T20:46:21.9985578+00:00", "Log": "F [2026-02-03 20:46:21 +0000] [9] [INFO] Booting worker with pid: 9"}
+{"TimeStamp": "2026-02-03T20:46:22.0889054+00:00", "Log": "F [2026-02-03 20:46:22 +0000] [10] [INFO] Booting worker with pid: 10"}
